@@ -8,6 +8,7 @@ I am an Electrical Engineering BSc student at the University of Tehran. My prima
 
 
 ## 🚀 Langueges and Tools
+<align = left>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="45" height="45"/>
