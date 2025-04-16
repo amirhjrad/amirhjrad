@@ -1,10 +1,5 @@
 ## 👩🏻‍💻 About Me
-I am an Electrical Engineering BSc student at the University of Tehran. My primary research interests are in the fields of Hardware and FPGA.
-
-
-- 🔭 I’m currently working on implementing SNNs on hardware.
-- 🌱 I’m currently learning about AI and its applications in hardware.
-- 📫 How to reach me: I am always available via my email.
+I am a BSc student in Electrical Engineering at the University of Tehran. My primary research interests are in the fields of Hardware and FPGA.
 
 
 ## 🚀 Langueges and Tools
